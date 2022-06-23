@@ -1,1 +1,1 @@
-added readme
+my shelll basics readme
